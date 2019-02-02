@@ -50,6 +50,8 @@ namespace MyFirstApp
             //    Name = "Steve"
             // };
             // Console.WriteLine(s.GetStudentName());
+           // Opachicka 
+
             s.PrintName();
             Console.ReadLine();
         }
