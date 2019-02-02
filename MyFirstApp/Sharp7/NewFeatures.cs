@@ -64,7 +64,7 @@ namespace MyFirstApp.Sharp7
         }
 
     }
-
+    // Test if the GitHub works for example to Sviatka Kohanochka ())))
 
     public class Student
     {
