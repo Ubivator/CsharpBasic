@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Delegate\DelegateTry.cs" />
+    <Compile Include="Lana.cs" />
     <Compile Include="MetodsFromClass.cs" />
     <Compile Include="Sharp7\NewFeatures.cs" />
     <Compile Include="StartingPoint.cs" />

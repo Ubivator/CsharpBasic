@@ -14,7 +14,7 @@ namespace MyFirstApp
         
         static void Main(string[] args)
         {
-          NewFeatures newFeatures = new NewFeatures();
+            // NewFeatures newFeatures = new NewFeatures();
             // var studentInfo = newFeatures.ReturnStudentInfo();
             //Console.WriteLine("The info of the Student : " + studentInfo);
             // (string name, int age, int grate)= newFeatures.ReturnStudentInfo();
@@ -45,14 +45,19 @@ namespace MyFirstApp
             // MetodsFromClass.GenericCollectionCustomeClass();
             //MetodsFromClass.GenericCollection();
             //Console.WriteLine(MetodsFromClass.GetBrowsers(Browser.Chrome));
-            Student s = new Student("Sooo");
+            //Student s = new Student("Sooo");
             //{
             //    Name = "Steve"
             // };
             // Console.WriteLine(s.GetStudentName());
-           // Opachicka 
+            // Opachicka 
 
-            s.PrintName();
+            //s.PrintName();
+            Lana Slana = new Lana();
+            
+            Slana.LanaKohan("Mazur");
+
+        
             Console.ReadLine();
         }
     }
